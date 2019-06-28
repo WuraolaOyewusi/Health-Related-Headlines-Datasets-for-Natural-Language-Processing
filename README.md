@@ -4,5 +4,5 @@ The datasets are suitable for NLP tasks like Topic Modelling, Sentiment analysis
 
 Working on this took many hours but I consider this my opportunity to give back to the internet that has given so much knowledge to me
 
-I hope both people from core science and other fields can relate with and do NLP magic with the datasets.
+I hope both people from health sciences and other fields can relate with and do NLP magic with the datasets.
 

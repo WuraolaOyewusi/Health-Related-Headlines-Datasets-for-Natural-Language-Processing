@@ -7,6 +7,96 @@ Working on this took many hours but I consider this my opportunity to give back 
 I hope both people from health sciences and other fields can relate with and do NLP magic with the datasets
 
 
-File Name                        |  Number of Rows    | Number of Columns  |  Categories 
-----------------------------------------------------------------------------------------
+File Name                                             |  Number of Rows    | Number of Columns  |  Categories 
+-------------------------------------------------------------------------------------------------------------
+Adult_Immunization_Features_Headlines.csv	             |   366              |   4                |   Nil
+Adult_Immunization_Features_Headlines.gz               |	 366              |   4                |   Nil
+___________________________________________________________________________________________________________________
+Adult_Immunization_News_Headlines.csv	                 |   1481             |   4                | Nil
+Adult_Immunization_News_Headlines.gz                   |   1481             |   4                | Nil	
+___________________________________________________________________________________________________________________
+Adverse_Drug_Events_Related_Headlines.csv	
+Adverse_Drug_Events_Related_Headlines.gz	
+___________________________________________________________________________________________________________________
+Adverse_Drug_Reaction_Journals_Headlines.csv	
+Adverse_Drug_Reaction_Journals_Headlines.gz	
+____________________________________________________________________________________________________________________
+Adverse_Drug_Reaction_News_Headlines.csv	
+Adverse_Drug_Reaction_News_Headlines.gz	
+____________________________________________________________________________________________________________________
+Adverse_Drug_Reaction_Perspective_Headlines.csv	
+Adverse_Drug_Reaction_Perspective_Headlines.gz
+____________________________________________________________________________________________________________________
+Antibiotic_Resistance_Journals_Headlines.csv	
+Antibiotic_Resistance_Journals_Headlines.gz	
+____________________________________________________________________________________________________________________
+Antibiotic_Resistance_News_Headlines.csv	
+Antibiotic_Resistance_News_Headlines.gz	
+_____________________________________________________________________________________________________________________
+Antibiotic_Resistance_Perspective_Headlines.csv	
+Antibiotic_Resistance_Perspective_Headlines.gz
+______________________________________________________________________________________________________________________
+Antibiotic_Resistance_Related_Headlines.csv	
+Antibiotic_Resistance_Related_Headlines.gz	
+______________________________________________________________________________________________________________________
+Clinical_Trials_Journals_Headlines.csv
+Clinical_Trials_Journals_Headlines.gz
+______________________________________________________________________________________________________________________
+Clinical_Trials_News_Headlines.csv	
+Clinical_Trials_News_Headlines.gz
+______________________________________________________________________________________________________________________
+Clinical_Trials_Perspective_Headlines.csv
+Clinical_Trials_Perspective_Headlines.gz	
+______________________________________________________________________________________________________________________
+Clinical_Trials_Related_Headlines.csv	
+Clinical_Trials_Related_Headlines.gz
+_______________________________________________________________________________________________________________________
+Health_Related_Headlines_Dataset.csv
+Health_Related_Headlines_Dataset.gz
+_______________________________________________________________________________________________________________________
+Immunization_Related_Headlines.csv	
+Immunization_Related_Headlines.gz	
+_______________________________________________________________________________________________________________________
+Pain_Management_Journals_Headlines.csv	
+Pain_Management_Journals_Headlines.gz
+_______________________________________________________________________________________________________________________
+Pain_Management_News_Headlines.csv	
+Pain_Management_News_Headlines.gz	
+_______________________________________________________________________________________________________________________
+Pain_Management_Related_Headlines .gz	
+Pain_Management_Related_Headlines.csv	
+_______________________________________________________________________________________________________________________
+Pain_management_Features_Headlines.csv	
+Pain_management_Features_Headlines.gz	
+_______________________________________________________________________________________________________________________
+Patient_Safety_Journals_Headlines.csv	
+Patient_Safety_Journals_Headlines.gz
+_______________________________________________________________________________________________________________________
+Patient_Safety_News_Headlines .gz	
+Patient_Safety_News_Headlines.csv	
+_______________________________________________________________________________________________________________________
+Patient_Safety_Perspective_Headlines.csv	
+Patient_Safety_Perspective_Headlines.gz
+_______________________________________________________________________________________________________________________
+Patient_Safety_Related_Headlines.csv	
+Patient_Safety_Related_Headlines.gz	
+_______________________________________________________________________________________________________________________
+Peadiatric_Immunization_Features_Headlines.csv	
+Peadiatric_Immunization_Features_Headlines.gz	
+_______________________________________________________________________________________________________________________
+Peadiatric_Immunization_News_Headlines.csv	
+Peadiatric_Immunization_News_Headlines.gz	
+_______________________________________________________________________________________________________________________
+Substance_Abuse_and_Addiction_Journals_Headlines.csv	
+Substance_Abuse_and_Addiction_Journals_Headlines.gz	
+_______________________________________________________________________________________________________________________
+Substance_Abuse_and_Addiction_News_Headlines.csv	
+Substance_Abuse_and_Addiction_News_Headlines.gz	
+________________________________________________________________________________________________________________________
+Substance_Abuse_and_Addiction_Perspective_Headlines.csv	
+Substance_Abuse_and_Addiction_Perspective_Headlines.gz
+________________________________________________________________________________________________________________________
+Substance_Abuse_and_Addiction_Related_Headlines.gz
+Substance_Abuse_and_Addiction_Related_Headlines.csv
+
 

@@ -4,7 +4,11 @@ The datasets are suitable for NLP tasks like Topic Modelling, Sentiment analysis
 
 Working on this took many hours but I consider this my opportunity to give back to the internet that has given so much knowledge to me
 
-I hope people from both health sciences and other fields can relate with and do NLP magic with the datasets
+I hope people from both health sciences and other fields can relate with and do NLP magic with the datasets.
+
+I shared my thoughts in the medium article below
+
+https://medium.com/@oyewusiwuraola/health-related-headlines-datasets-for-natural-language-processing-nlp-df321702c78a
 
 
 Column Name           |Description
